@@ -4,10 +4,28 @@
       "entry": "./lib/webparts/birthdays/BirthdaysWebPart.js",
       "manifest": "./src/webparts/birthdays/BirthdaysWebPart.manifest.json",
       "outputPath": "./dist/birthdays-web-part.js"
+    },
+    {
+      "entry": "./lib/webparts/newsCarousel/NewsCarouselWebPart.js",
+      "manifest": "./src/webparts/newsCarousel/NewsCarouselWebPart.manifest.json",
+      "outputPath": "./dist/news-carousel-web-part.js"
+    },
+    {
+      "entry": "./lib/webparts/newsSlider/NewsSliderWebPart.js",
+      "manifest": "./src/webparts/newsSlider/NewsSliderWebPart.manifest.json",
+      "outputPath": "./dist/news-slider-web-part.js"
+    },
+    {
+      "entry": "./lib/webparts/tilesMenu/TilesMenuWebPart.js",
+      "manifest": "./src/webparts/tilesMenu/TilesMenuWebPart.manifest.json",
+      "outputPath": "./dist/tiles-menu-web-part.js"
     }
   ],
   "externals": {},
   "localizedResources": {
-    "BirthdaysWebPartStrings": "webparts/birthdays/loc/{locale}.js"
+    "BirthdaysWebPartStrings": "webparts/birthdays/loc/{locale}.js",
+    "NewsCarouselWebPartStrings": "webparts/newsCarousel/loc/{locale}.js",
+    "NewsSliderWebPartStrings": "webparts/newsSlider/loc/{locale}.js",
+    "TilesMenuWebPartStrings": "webparts/tilesMenu/loc/{locale}.js"
   }
 }
