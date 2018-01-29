@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "uc-widgets-home-client-side-solution",
+    "id": "7b99ab30-a915-4747-8459-e00c86364a18",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/uc-widgets-home.sppkg"
+  }
+}

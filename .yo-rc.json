@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "uc-widgets-home",
+    "libraryId": "7b99ab30-a915-4747-8459-e00c86364a18",
+    "environment": "onprem"
+  }
+}
